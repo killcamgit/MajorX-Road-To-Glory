@@ -1,1 +1,10 @@
-
+{
+   "Base":{
+      "KillCam":{
+         "PlayerImage":"rbxassetid://92174890902534",
+         "Rating":1,
+         "Position":"CM",
+         "ChemStyle":"Creator"
+      }
+   }
+}
