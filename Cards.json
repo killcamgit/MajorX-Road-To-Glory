@@ -5,6 +5,36 @@
          "Rating":1,
          "Position":"CM",
          "ChemStyle":"Creator"
+      },
+      "Thunder":{
+         "PlayerImage":"rbxassetid://92174890902534",
+         "Rating":50,
+         "Position":"RW",
+         "ChemStyle":"Maverick"
+      },
+      "Hunt":{
+         "PlayerImage":"rbxassetid://92174890902534",
+         "Rating":50,
+         "Position":"CB",
+         "ChemStyle":"Balanced"
+      },
+      "Seby":{
+         "PlayerImage":"rbxassetid://92174890902534",
+         "Rating":1,
+         "Position":"RW",
+         "ChemStyle":"Balanced"
+      },
+      "Tillian":{
+         "PlayerImage":"rbxassetid://92174890902534",
+         "Rating":25,
+         "Position":"CB",
+         "ChemStyle":"Balanced"
+      },
+      "JacobPFC":{
+         "PlayerImage":"rbxassetid://92174890902534",
+         "Rating":1,
+         "Position":"CB",
+         "ChemStyle":"Balanced"
       }
    }
 }
