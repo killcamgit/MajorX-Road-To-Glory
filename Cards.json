@@ -2,43 +2,49 @@
    "Base":{
       "KillCam":{
          "PlayerImage":"rbxassetid://92174890902534",
-         "Rating":1,
+         "Rating":50,
          "Position":"CM",
          "ChemStyle":"Creator"
       },
       "Thunder":{
          "PlayerImage":"rbxassetid://121040871243614",
-         "Rating":9999,
+         "Rating":75,
          "Position":"RW",
          "ChemStyle":"Maverick"
       },
       "Luxien":{
          "PlayerImage":"rbxassetid://89996059625046",
-         "Rating":50,
+         "Rating":95,
          "Position":"CB",
          "ChemStyle":"Maverick"
       },
       "Hunt":{
          "PlayerImage":"rbxassetid://108007302419465",
-         "Rating":50,
+         "Rating":75,
          "Position":"CB",
          "ChemStyle":"Balanced"
       },
+      "Danaldo":{
+         "PlayerImage":"rbxassetid://108007302419465",
+         "Rating":100,
+         "Position":"ST",
+         "ChemStyle":"Maverick"
+      },
       "Seby":{
          "PlayerImage":"rbxassetid://108007302419465",
-         "Rating":1,
+         "Rating":15,
          "Position":"RW",
          "ChemStyle":"Balanced"
       },
       "Tillian":{
          "PlayerImage":"rbxassetid://92613305719451",
-         "Rating":25,
+         "Rating":40,
          "Position":"CB",
          "ChemStyle":"Balanced"
       },
       "JacobPFC":{
          "PlayerImage":"rbxassetid://108007302419465",
-         "Rating":1,
+         "Rating":20,
          "Position":"CB",
          "ChemStyle":"Balanced"
       }
