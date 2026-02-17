@@ -2,14 +2,14 @@
    "Base":{
       "KillCam":{
          "PlayerImage":"rbxassetid://106935135541674",
-         "Rating":50,
+         "Rating":30,
          "Position":"CAM",
          "ChemStyle":"Creator",
          "DiscordID":1412462157202722887
       },
       "Thunder":{
          "PlayerImage":"rbxassetid://121040871243614",
-         "Rating":75,
+         "Rating":70,
          "Position":"RW",
          "ChemStyle":"Maverick",
          "DiscordID":764217384076050452
@@ -23,7 +23,7 @@
       },
       "Hunt":{
          "PlayerImage":"rbxassetid://108007302419465",
-         "Rating":75,
+         "Rating":70,
          "Position":"CB",
          "ChemStyle":"Balanced",
          "DiscordID":659365877195735041
@@ -37,21 +37,21 @@
       },
       "Seby":{
          "PlayerImage":"rbxassetid://108007302419465",
-         "Rating":15,
+         "Rating":10,
          "Position":"RW",
          "ChemStyle":"Balanced",
          "DiscordID":817404234982883348
       },
       "Tillian":{
          "PlayerImage":"rbxassetid://92613305719451",
-         "Rating":40,
+         "Rating":25,
          "Position":"CB",
          "ChemStyle":"Balanced",
          "DiscordID":1323700032897155154
       },
       "JacobPFC":{
          "PlayerImage":"rbxassetid://108007302419465",
-         "Rating":20,
+         "Rating":10,
          "Position":"CB",
          "ChemStyle":"Balanced",
          "DiscordID":1161384872892436551
