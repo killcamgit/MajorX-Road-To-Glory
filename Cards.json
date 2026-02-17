@@ -4,49 +4,57 @@
          "PlayerImage":"rbxassetid://106935135541674",
          "Rating":50,
          "Position":"CAM",
-         "ChemStyle":"Creator"
+         "ChemStyle":"Creator",
+         "DiscordID":1412462157202722887
       },
       "Thunder":{
          "PlayerImage":"rbxassetid://121040871243614",
          "Rating":75,
          "Position":"RW",
-         "ChemStyle":"Maverick"
+         "ChemStyle":"Maverick",
+         "DiscordID":764217384076050452
       },
       "Luxien":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":95,
          "Position":"CB",
-         "ChemStyle":"Maverick"
+         "ChemStyle":"Maverick",
+         "DiscordID":797090232700239912
       },
       "Hunt":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":75,
          "Position":"CB",
-         "ChemStyle":"Balanced"
+         "ChemStyle":"Balanced",
+         "DiscordID":659365877195735041
       },
       "Danaldo":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":100,
          "Position":"ST",
-         "ChemStyle":"Maverick"
+         "ChemStyle":"Maverick",
+         "DiscordID":705079923928465420
       },
       "Seby":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":15,
          "Position":"RW",
-         "ChemStyle":"Balanced"
+         "ChemStyle":"Balanced",
+         "DiscordID":817404234982883348
       },
       "Tillian":{
          "PlayerImage":"rbxassetid://92613305719451",
          "Rating":40,
          "Position":"CB",
-         "ChemStyle":"Balanced"
+         "ChemStyle":"Balanced",
+         "DiscordID":1323700032897155154
       },
       "JacobPFC":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":20,
          "Position":"CB",
-         "ChemStyle":"Balanced"
+         "ChemStyle":"Balanced",
+         "DiscordID":1161384872892436551
       }
    }
 }
