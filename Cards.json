@@ -53,8 +53,29 @@
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":10,
          "Position":"CB",
-         "ChemStyle":"Balanced",
+         "ChemStyle":"Cautious",
          "DiscordID":1161384872892436551
+      },
+      "Sookelboo":{
+         "PlayerImage":"rbxassetid://73606479001374",
+         "Rating":30,
+         "Position":"GK",
+         "ChemStyle":"Balanced",
+         "DiscordID":925168730718220328
+      },
+      "Szobo.ofc":{
+         "PlayerImage":"rbxassetid://87156235637059",
+         "Rating":25,
+         "Position":"ST",
+         "ChemStyle":"Balanced",
+         "DiscordID":784672853554495499
+      },
+      "Vxie":{
+         "PlayerImage":"rbxassetid://87156235637059",
+         "Rating":25,
+         "Position":"GK",
+         "ChemStyle":"Balanced",
+         "DiscordID":784672853554495499
       }
    }
 }
