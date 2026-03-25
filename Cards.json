@@ -5,21 +5,21 @@
          "Rating":30,
          "Position":"CAM",
          "ChemStyle":"Creator",
-         "DiscordID":1412462157202722887
+         "DiscordID":"1412462157202722887"
       },
       "Thunder":{
          "PlayerImage":"rbxassetid://121040871243614",
          "Rating":70,
          "Position":"RW",
          "ChemStyle":"Maverick",
-         "DiscordID":764217384076050452
+         "DiscordID":"764217384076050452"
       },
       "Luxien":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":95,
          "Position":"CB",
          "ChemStyle":"Maverick",
-         "DiscordID":797090232700239912
+         "DiscordID":"797090232700239912"
       },
       "Hunt":{
          "PlayerImage":"rbxassetid://108007302419465",
@@ -33,49 +33,49 @@
          "Rating":100,
          "Position":"ST",
          "ChemStyle":"Maverick",
-         "DiscordID":705079923928465420
+         "DiscordID":"705079923928465420"
       },
       "Seby":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":10,
          "Position":"RW",
          "ChemStyle":"Balanced",
-         "DiscordID":817404234982883348
+         "DiscordID":"817404234982883348"
       },
       "Tillian":{
          "PlayerImage":"rbxassetid://92613305719451",
          "Rating":25,
          "Position":"CB",
          "ChemStyle":"Balanced",
-         "DiscordID":1323700032897155154
+         "DiscordID":"1323700032897155154"
       },
       "JacobPFC":{
          "PlayerImage":"rbxassetid://108007302419465",
          "Rating":10,
          "Position":"CB",
          "ChemStyle":"Cautious",
-         "DiscordID":1161384872892436551
+         "DiscordID":"1161384872892436551"
       },
       "Sookelboo":{
          "PlayerImage":"rbxassetid://73606479001374",
          "Rating":30,
          "Position":"GK",
          "ChemStyle":"Balanced",
-         "DiscordID":925168730718220328
+         "DiscordID":"925168730718220328"
       },
       "Szobo.ofc":{
          "PlayerImage":"rbxassetid://87156235637059",
          "Rating":25,
          "Position":"ST",
          "ChemStyle":"Balanced",
-         "DiscordID":784672853554495499
+         "DiscordID":"784672853554495499"
       },
       "Vxie":{
          "PlayerImage":"rbxassetid://121907257461777",
          "Rating":50,
          "Position":"GK",
          "ChemStyle":"Balanced",
-         "DiscordID":784672853554495499
+         "DiscordID":"784672853554495499"
       }
    }
 }
